@@ -1,6 +1,6 @@
 #pragma once
 
-#define KCAT_VERSION "1.8.0" /* Manually updated */
+#define KCAT_VERSION "1.8.0.1" /* Manually updated */
 
 /*
     From syslog.h - to fix "E0020: identifier "LOG_DEBUG" is undefined"
